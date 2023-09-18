@@ -1,0 +1,20 @@
+div img{
+    width: 150pt;
+    height: 100pt;
+    margin-top: 65pt;
+    margin-left: 30pt;
+    padding: 30px;
+    text-align: center;
+}
+.first{
+    display: flex;
+
+}
+.second{
+    display: flex;
+}
+
+
+img{
+    margin-top: 10px;
+}
